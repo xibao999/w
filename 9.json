@@ -131,7 +131,7 @@
         },
         {
             "key": "csp_剧荒",
-	    "name": "剧荒",
+	    "name": "剧荒(爬虫)",
 	    "type": 3,
 	    "api": "csp_Juhuang",
 	    "searchable": 1,
