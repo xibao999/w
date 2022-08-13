@@ -959,6 +959,14 @@
             "searchable":1,
             "quickSearch":1
         },
+	{
+            "key": "TV采集",
+            "name": "TV采集",
+            "type": 1,
+            "api": "http://tvcaiji.pankk.cn/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
         {
             "key":"csp_AliPanSou",
             "name":"喵狸盘搜(SP)",
