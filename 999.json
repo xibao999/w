@@ -1,5 +1,5 @@
 {
-    "spider":"https://gitea.com/lucky/P/raw/branch/master/jar/cs0805.jar;md5;929e08378a6455652f09ee134e565d2b",
+    "spider":"https://raw.githubusercontent.com/liuping666888/mao/main/cs0805.jar;md5;623d6d8b4999e6591121d91624879420",
     "wallpaper":"http://刚刚.live/图",
     "lives":[
         {
@@ -22,7 +22,7 @@
             "api":"csp_Blims",
             "searchable":1,
             "quickSearch":0,
-            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy.jar;md5;404b279a9b5accd5abcdf0764f574fde",
+            "jar":"https://raw.githubusercontent.com/liuping666888/mao/main/Blizy.jar;md5;2646f9650c2356a1bd63e4e9d118e7f3",
             "filterable":1
         },
         {
@@ -847,7 +847,7 @@
             "api":"csp_Blixq",
             "searchable":1,
             "quickSearch":1,
-            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy.jar;md5;404b279a9b5accd5abcdf0764f574fde",
+            "jar":"https://raw.githubusercontent.com/liuping666888/mao/main/Blizy.jar;md5;2646f9650c2356a1bd63e4e9d118e7f3",
             "filterable":1
         },
         {
@@ -857,7 +857,7 @@
             "api":"csp_Bliyc",
             "searchable":1,
             "quickSearch":0,
-            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy.jar;md5;404b279a9b5accd5abcdf0764f574fde",
+            "jar":"https://raw.githubusercontent.com/liuping666888/mao/main/Blizy.jar;md5;2646f9650c2356a1bd63e4e9d118e7f3",
             "filterable":1
         },
         {
@@ -867,7 +867,7 @@
             "api":"csp_Blixs",
             "searchable":1,
             "quickSearch":0,
-            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy.jar;md5;404b279a9b5accd5abcdf0764f574fde",
+            "jar":"https://raw.githubusercontent.com/liuping666888/mao/main/Blizy.jar;md5;2646f9650c2356a1bd63e4e9d118e7f3",
             "filterable":1
         },
         {
