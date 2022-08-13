@@ -596,6 +596,15 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitea.com/xibao568/bao/raw/branch/main/MaooXP/huya2.json"
+        }, 
+        {
+            "key": "心鸾官采",
+            "name": "心鸾官采",
+            "api": "http://49.232.186.195:5511/api.php/provide/vod/",
+            "type": 1,
+            "playUal":  "",
+            "quickSearch": 1,
+            "searchable": 1
         },
         {
             "key": "考拉直链",
