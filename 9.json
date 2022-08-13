@@ -136,7 +136,8 @@
 	    "api": "csp_Juhuang",
 	    "searchable": 1,
 	    "quickSearch": 1,
-	    "filterable": 1
+	    "filterable": 1,
+	    "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/cs08052.jar;md5;584e5376b5319ea6835684b4b14094af"
         },
         {
             "key":"csp_hbys",
@@ -254,7 +255,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "dcbc975ad0684eb5a498ecd1836272e6",
-            "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/sc.jar"
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98.txt?raw=true"
         },
         {
             "key": "FindZY",
