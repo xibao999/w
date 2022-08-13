@@ -764,16 +764,6 @@
             "ext":"http://mkk.gotka.top/api.php/v1.vod"
         },
         {
-            "key":"csp_biubiu_花猫TV",
-            "name":"花猫TV(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/%E8%8A%B1%E7%8C%ABTV.json"
-        },
-        {
             "key":"csp_appysv2_M2_暖光影视",
             "name":"暖光影视",
             "type":3,
@@ -794,106 +784,6 @@
             "ext":"http://121.205.88.178:8090/xgapp.php/v2/"
         },
         {
-            "key":"csp_biubiu_真不卡cerrd",
-            "name":"真不卡影院",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/%E7%9C%9F%E4%B8%8D%E5%8D%A1cerrd.json"
-        },
-        {
-            "key":"csp_biubiu_剧白白-蓝光",
-            "name":"剧白白-蓝光(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/%E5%89%A7%E7%99%BD%E7%99%BD%E8%93%9D%E5%85%89.json"
-        },
-        {
-            "key":"csp_biubiu_555电影",
-            "name":"555电影",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/555%E7%94%B5%E5%BD%B1.json"
-        },
-        {
-            "key":"csp_biubiu_蓝莓影视",
-            "name":"蓝莓影视",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/%E8%93%9D%E8%8E%93%E5%BD%B1%E8%A7%86.json"
-        },
-        {
-            "key":"csp_biubiu_4K电影网",
-            "name":"4K电影网(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/4K%E7%94%B5%E5%BD%B1%E7%BD%91.json"
-        },
-        {
-            "key":"csp_xpath_dandanzan10",
-            "name":"蛋蛋赞(电影)(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXP/dandanzan10.json"
-        },
-        {
-            "key":"csp_biubiu_乐猪影视",
-            "name":"乐猪影视(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/lezhutv.json"
-        },
-        {
-            "key":"csp_biubiu_影视工厂",
-            "name":"影视工厂(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"
-        },
-        {
-            "key":"csp_xpath_naifeiorg",
-            "name":"奈飞中文(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/%E5%A5%88%E9%A3%9E%E4%B8%AD%E6%96%87.json"
-        },
-        {
-            "key":"csp_biubiu_F7好看剧",
-            "name":"F7好看剧(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/F7%E5%A5%BD%E7%9C%8B%E5%89%A7.json"
-        },
-        {
             "key":"小熊",
             "name":"小熊TV",
             "type":3,
@@ -911,16 +801,6 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/qiyou.json"
-        },
-        {
-            "key":"csp_biubiu_cupfox",
-            "name":"茶杯狐",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/%E8%8C%B6%E7%8B%90%E6%9D%AF.json"
         }, {
         "key": "csp_biubiu_耐克TV",
         "name": "耐克TV",
