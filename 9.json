@@ -130,14 +130,13 @@
             "searchable":1
         },
         {
-            "key": "剧荒",
-            "name": "剧荒(爬虫)",
-            "type": 3,
-            "api": "csp_juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/cs08052.jar"
+            "key": "csp_剧荒",
+	    "name": "剧荒",
+	    "type": 3,
+	    "api": "csp_Juhuang",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1
         },
         {
             "key":"csp_hbys",
