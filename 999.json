@@ -841,26 +841,6 @@
             "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/%E5%93%94%E6%BB%B4%E7%A3%81%E5%8A%9B.json"
         },
         {
-            "key":"csp_xpath_A33",
-            "name":"MTV(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/MTV.js"
-        },
-        {
-            "key":"Bili",
-            "name":"B站",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/%E5%93%94%E5%93%A9.json"
-        },
-        {
             "key":"csp_Blixq",
             "name":"戏曲(SP)",
             "type":3,
@@ -976,30 +956,6 @@
             "name":"卧龙资源(切)",
             "type":1,
             "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
-            "searchable":1,
-            "quickSearch":1
-        },
-        {
-            "key":"樱花资源",
-            "name":"樱花资源(切)",
-            "type":1,
-            "api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
-            "searchable":1,
-            "quickSearch":1
-        },
-        {
-            "key":"易看资源",
-            "name":"易看资源(切)",
-            "type":1,
-            "api":"https://api.yikanapi.com/api.php/provide/vod/",
-            "searchable":1,
-            "quickSearch":1
-        },
-        {
-            "key":"新浪资源",
-            "name":"新浪资源(切)",
-            "type":1,
-            "api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
             "searchable":1,
             "quickSearch":1
         },
