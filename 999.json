@@ -312,6 +312,36 @@
             "filterable":0,
             "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXP/bttwoo.json"
         },
+	{
+            "key": "Bttoo",
+            "name": "两个BT(爬虫)",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/sc.jar"
+        },
+        {
+            "key": "mjxq_spider",
+            "name": "美剧星球(爬虫)",
+            "type": 3,
+            "api": "csp_Mjxq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/sc.jar"
+        },
+        {
+            "key": "Nfyun",
+            "name": "Nf云(爬虫)",
+            "type": 3,
+            "api": "csp_Nfyun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/custom_spider.jar"
+        },
         {
             "key":"csp_Auete",
             "name":"Auete(SP)",
