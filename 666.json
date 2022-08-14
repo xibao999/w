@@ -668,6 +668,26 @@
             "ext":"https://gitea.com/xibao568/bao/raw/branch/main/MaooXB/LIBVIO.json"
         },
         {
+            "key": "csp_biubiu_饭团HD",
+            "name": "饭团HD(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/xibao568/bao/raw/branch/main/MaooXB2/饭团hd.json"
+        }, 
+        {
+            "key": "csp_biubiu_米来影视",
+            "name": "米来影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/xibao568/bao/raw/branch/main/MaooXB2/米来影视.json"
+        },
+        {
             "key": "csp_biubiu_快猫",
             "name": "快猫(XB)",
             "type": 3,
