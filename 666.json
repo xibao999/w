@@ -778,6 +778,16 @@
             "ext":"https://gitea.com/xibao568/bao/raw/branch/main/MaooXP/美剧虫.json"
         },  
         {
+            "key": "csp_ 555dy",
+            "name": "555影视(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/xibao568/bao/raw/branch/main/MaooXP/555dy.json"
+        },
+        {
             "key": "csp_xpath_桔子TV",
             "name": "桔子TV(XPF)️️️",
             "type": 3,
