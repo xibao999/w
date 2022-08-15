@@ -688,14 +688,14 @@
             "ext": "https://gitea.com/xibao568/bao/raw/branch/main/MaooXB2/米来影视.json"
         },
         {
-            "key": "csp_biubiu_剧荒",
-            "name": "剧荒(XB)",
+            "key": "csp_biubiu_胖虎",
+            "name": "胖虎(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/xibao568/bao/raw/branch/main/MaooXB/剧荒.json"
+            "ext": "https://gitea.com/xibao568/bao/raw/branch/main/MaooXB/胖虎.json"
         },
         {
             "key": "csp_biubiu_快猫",
