@@ -266,7 +266,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/XC0815w.jar"
+            "jar":""https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0815w.jar;md5;D22ECABC487AE22B2B05A8DB11C1107D"
         },
         {
             "key":"csp_hbys",
