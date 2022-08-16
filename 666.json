@@ -319,7 +319,7 @@
             "key":"csp_DiDuan",
             "name":"低端影视",
             "type":3,
-            "api":"csp_Ddrk",
+            "api":"csp_ddys",
             "searchable":1,
             "quickSearch":1,
             "filterable":0
