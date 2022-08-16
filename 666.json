@@ -26,7 +26,8 @@
             "api":"csp_Kmys",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/kmys.jar;md5;e8e18d1f344e490056bcf6bf936d6ec7",
+	    "filterable":1
         },
         {
             "key":"csp_LiteApple",
@@ -266,7 +267,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/XC0815w.jar;md5;4621fe08ba9adbbc9f218ac555635076"
+            "ext":"",
+	    "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/XC0815w.jar;md5;4621fe08ba9adbbc9f218ac555635076"
         },
         {
             "key":"csp_hbys",
