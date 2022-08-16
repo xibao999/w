@@ -266,7 +266,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "jar":""https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0815w.jar;md5;D22ECABC487AE22B2B05A8DB11C1107D"
+            "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/XC0815w.jar;md5;4621fe08ba9adbbc9f218ac555635076"
         },
         {
             "key":"csp_hbys",
@@ -364,8 +364,8 @@
             "api":"csp_GitCafe",
             "searchable":1,
             "quickSearch":1,
-            "jar":"http://fcys.xyz/nz/pc/custom_spider.jar;md5;b45c4ecea82bfe22d3e8b86a69e04407",
             "filterable":0
+	    "jar":"http://fcys.xyz/nz/pc/custom_spider.jar;md5;b45c4ecea82bfe22d3e8b86a69e04407"
         },
         {
             "key": "Bttoo",
