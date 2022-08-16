@@ -288,16 +288,6 @@
             "filterable":1
         },
         {
-            "key":"csp_xpath_bttwoo",
-            "name":"两个BT",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXP/bttwoo.json"
-        },
-        {
             "key":"csp_Auete",
             "name":"Auete(SP)",
             "type":3,
@@ -319,7 +309,7 @@
             "key":"csp_DiDuan",
             "name":"低端影视",
             "type":3,
-            "api":"csp_ddys",
+            "api":"csp_Ddrk",
             "searchable":1,
             "quickSearch":1,
             "filterable":0
@@ -492,10 +482,10 @@
             "name": "两个变态(XP)",
             "type":3,
             "api":"csp_XPath",
-            "searchable":0,
-            "quickSearch":0,
+            "searchable":1,
+            "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitea.com/xibao568/bao/raw/branch/main/MaooXP/bttwoo.json"
+            "ext":"https://gitea.com/xibao568/bao/raw/branch/main/bttwoo.json"
         },
         {
             "key": "csp_biubiu_voflix",
