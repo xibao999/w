@@ -469,6 +469,16 @@
             "ext": "dcbc975ad0684eb5a498ecd1836272e6"
         },
         {
+            "key": "csp_Yisou",
+            "name": "易搜(仅搜索)",
+            "type": 3,
+            "api": "csp_Yisou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "dcbc975ad0684eb5a498ecd1836272e6"
+        },
+	{
             "key":"小熊",
             "name":"小熊TV(爬虫)",
             "type":3,
