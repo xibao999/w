@@ -8,7 +8,7 @@
             "searchable":1,
             "quickSearch":0,
             "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/Blizy.jar;md5;f77b81e05caed64a45fc056d9b74fc5b",
-	        "filterable":1
+            "filterable":1
         },
         {
             "key":"csp_Kunyu77",
