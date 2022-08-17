@@ -260,16 +260,15 @@
             ]
         },
         {
-            "key":"293视频",
-            "name":"293视频",
-            "type":3,
-            "api":"csp_SP293",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"",
-	    "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/XC0815.jar;md5;4621fe08ba9adbbc9f218ac555635076"
-        },
+	    "key":"csp_293",
+	    "name":"293(假)",
+	    "api":"csp_SP293",
+	    "type":3,
+	    "filterable":1,
+	    "quickSearch":1,
+	    "searchable":1,
+	    "ext":""
+	},
         {
             "key":"csp_hbys",
             "name":"简影(SP)",
