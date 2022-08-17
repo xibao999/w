@@ -477,8 +477,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://gitea.com/xibao568/bao/raw/branch/main/jar/aliyuanhua.jar,
-            "ext": "dcbc975ad0684eb5a498ecd1836272e6"
+            "jar": "https://gitea.com/xibao568/bao/raw/branch/main/jar/aliyuanhua.jar,
+            "ext": "60ace13b753546128dcdab09e8783528"
         },
 	{
             "key":"小熊",
