@@ -450,14 +450,22 @@
             "ext":"http://121.205.88.178:8090/xgapp.php/v2/"
         },
         {
-            "key": "csp_Yisou"    ,
-            "name":"🐞易搜盘",
-            "type":3,
-            "api":"csp_Yisou",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"facaff7eb8e84fb8915b6aa767e5dff3"
+            "key": "FindZY",
+            "name": "找资源(仅搜索)",
+            "type": 3,
+            "api": "csp_FindZY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "{
+            "key": "FindZY",
+            "name": "找资源(仅搜索)",
+            "type": 3,
+            "api": "csp_FindZY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "facaff7eb8e84fb8915b6aa767e5dff3"
         },
         {
             "key": "FindZY",
