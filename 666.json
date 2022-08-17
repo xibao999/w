@@ -259,16 +259,7 @@
                 "其他剧"
             ]
         },
-        {
-	    "key":"csp_293",
-	    "name":"293(假)",
-	    "api":"csp_SP293",
-	    "type":3,
-	    "filterable":1,
-	    "quickSearch":1,
-	    "searchable":1,
-	    "ext":""
-	},
+        {"key":"csp_293","name":"293(假)","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
         {
             "key":"csp_hbys",
             "name":"简影(SP)",
@@ -450,21 +441,13 @@
             "ext":"http://121.205.88.178:8090/xgapp.php/v2/"
         },
         {
-            "key": "FindZY",
-            "name": "找资源(仅搜索)",
+            "key": "csp_Yisou",
+            "name": "易搜(仅搜索)",
             "type": 3,
-            "api": "csp_FindZY",
+            "api": "csp_Yisou",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "{
-            "key": "FindZY",
-            "name": "找资源(仅搜索)",
-            "type": 3,
-            "api": "csp_FindZY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "filterable": 0,
             "ext": "facaff7eb8e84fb8915b6aa767e5dff3"
         },
         {
